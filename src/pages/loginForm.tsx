@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import loginImage from "../assets/images/undraw_email-consent_j36b.png";
+import loginImage from "../assets/images/login.png";
 
 function LoginForm() {
   const [email, setEmail] = useState("");
